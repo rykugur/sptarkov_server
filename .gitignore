@@ -26,3 +26,6 @@ desktop.ini
 
 ## OSX
 .DS_Store
+
+.direnv
+.envrc
